@@ -1,0 +1,3 @@
+[submodule "Murphi3.1-CacheCoherence"]
+	path = Murphi3.1-CacheCoherence
+	url = git@github.com:fireflyndmoon43/Murphi3.1-CacheCoherence.git
